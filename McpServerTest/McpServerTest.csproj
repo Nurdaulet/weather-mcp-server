@@ -20,7 +20,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include=".gitignore" />
+    <None Remove=".gitignore" />
   </ItemGroup>
 
   <!-- Include additional files for browsing the MCP server. -->
