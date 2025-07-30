@@ -1,0 +1,20 @@
+﻿# Ignore build output
+bin/
+obj/
+
+# Ignore VS/VS Code user-specific stuff
+.vs/
+*.user
+*.suo
+
+# Ignore temp files
+*.log
+*.tmp
+*.cache
+
+# Rider
+.idea/
+
+# OS-specific
+.DS_Store
+Thumbs.db
