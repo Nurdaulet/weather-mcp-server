@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nurda\\source\\repos\\McpServerTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEDB716-09E4-4AFA-828C-AF9F53D1AD17}|McpServerTest\\McpServerTest.csproj|c:\\users\\nurda\\source\\repos\\mcpservertest\\mcpservertest\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{5FEDB716-09E4-4AFA-828C-AF9F53D1AD17}|McpServerTest\\McpServerTest.csproj|solutionrelative:mcpservertest\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEDB716-09E4-4AFA-828C-AF9F53D1AD17}|McpServerTest\\McpServerTest.csproj|c:\\users\\nurda\\source\\repos\\mcpservertest\\mcpservertest\\.gitignore||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEDB716-09E4-4AFA-828C-AF9F53D1AD17}|McpServerTest\\McpServerTest.csproj|solutionrelative:mcpservertest\\.gitignore||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEDB716-09E4-4AFA-828C-AF9F53D1AD17}|McpServerTest\\McpServerTest.csproj|c:\\users\\nurda\\source\\repos\\mcpservertest\\mcpservertest\\tools\\weathertools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEDB716-09E4-4AFA-828C-AF9F53D1AD17}|McpServerTest\\McpServerTest.csproj|solutionrelative:mcpservertest\\tools\\weathertools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEDB716-09E4-4AFA-828C-AF9F53D1AD17}|McpServerTest\\McpServerTest.csproj|c:\\users\\nurda\\source\\repos\\mcpservertest\\mcpservertest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5FEDB716-09E4-4AFA-828C-AF9F53D1AD17}|McpServerTest\\McpServerTest.csproj|solutionrelative:mcpservertest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEDB716-09E4-4AFA-828C-AF9F53D1AD17}|McpServerTest\\McpServerTest.csproj|c:\\users\\nurda\\source\\repos\\mcpservertest\\mcpservertest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEDB716-09E4-4AFA-828C-AF9F53D1AD17}|McpServerTest\\McpServerTest.csproj|solutionrelative:mcpservertest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEDB716-09E4-4AFA-828C-AF9F53D1AD17}|McpServerTest\\McpServerTest.csproj|c:\\users\\nurda\\source\\repos\\mcpservertest\\mcpservertest\\models\\openweatherresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEDB716-09E4-4AFA-828C-AF9F53D1AD17}|McpServerTest\\McpServerTest.csproj|solutionrelative:mcpservertest\\models\\openweatherresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEDB716-09E4-4AFA-828C-AF9F53D1AD17}|McpServerTest\\McpServerTest.csproj|c:\\users\\nurda\\source\\repos\\mcpservertest\\mcpservertest\\models\\openweatherforecastresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEDB716-09E4-4AFA-828C-AF9F53D1AD17}|McpServerTest\\McpServerTest.csproj|solutionrelative:mcpservertest\\models\\openweatherforecastresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\nurda\\source\\repos\\McpServerTest\\McpServerTest\\.gitignore",
+              "RelativeDocumentMoniker": "McpServerTest\\.gitignore",
+              "ToolTip": "C:\\Users\\nurda\\source\\repos\\McpServerTest\\McpServerTest\\.gitignore",
+              "RelativeToolTip": "McpServerTest\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-30T07:58:51.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\nurda\\source\\repos\\McpServerTest\\McpServerTest\\.gitignore",
+              "RelativeDocumentMoniker": "McpServerTest\\.gitignore",
+              "ToolTip": "C:\\Users\\nurda\\source\\repos\\McpServerTest\\McpServerTest\\.gitignore",
+              "RelativeToolTip": "McpServerTest\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-30T07:58:35.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nurda\\source\\repos\\McpServerTest\\McpServerTest\\appsettings.json",
+              "RelativeDocumentMoniker": "McpServerTest\\appsettings.json",
+              "ToolTip": "C:\\Users\\nurda\\source\\repos\\McpServerTest\\McpServerTest\\appsettings.json",
+              "RelativeToolTip": "McpServerTest\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-30T07:07:32.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OpenWeatherResponse.cs",
+              "DocumentMoniker": "C:\\Users\\nurda\\source\\repos\\McpServerTest\\McpServerTest\\Models\\OpenWeatherResponse.cs",
+              "RelativeDocumentMoniker": "McpServerTest\\Models\\OpenWeatherResponse.cs",
+              "ToolTip": "C:\\Users\\nurda\\source\\repos\\McpServerTest\\McpServerTest\\Models\\OpenWeatherResponse.cs",
+              "RelativeToolTip": "McpServerTest\\Models\\OpenWeatherResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T15:03:11.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherTools.cs",
+              "DocumentMoniker": "C:\\Users\\nurda\\source\\repos\\McpServerTest\\McpServerTest\\Tools\\WeatherTools.cs",
+              "RelativeDocumentMoniker": "McpServerTest\\Tools\\WeatherTools.cs",
+              "ToolTip": "C:\\Users\\nurda\\source\\repos\\McpServerTest\\McpServerTest\\Tools\\WeatherTools.cs",
+              "RelativeToolTip": "McpServerTest\\Tools\\WeatherTools.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwKEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T08:11:32.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nurda\\source\\repos\\McpServerTest\\McpServerTest\\Program.cs",
+              "RelativeDocumentMoniker": "McpServerTest\\Program.cs",
+              "ToolTip": "C:\\Users\\nurda\\source\\repos\\McpServerTest\\McpServerTest\\Program.cs",
+              "RelativeToolTip": "McpServerTest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T08:10:37.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OpenWeatherForecastResponse.cs",
+              "DocumentMoniker": "C:\\Users\\nurda\\source\\repos\\McpServerTest\\McpServerTest\\Models\\OpenWeatherForecastResponse.cs",
+              "RelativeDocumentMoniker": "McpServerTest\\Models\\OpenWeatherForecastResponse.cs",
+              "ToolTip": "C:\\Users\\nurda\\source\\repos\\McpServerTest\\McpServerTest\\Models\\OpenWeatherForecastResponse.cs",
+              "RelativeToolTip": "McpServerTest\\Models\\OpenWeatherForecastResponse.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T14:12:50.163Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

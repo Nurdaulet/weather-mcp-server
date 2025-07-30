@@ -1,0 +1,13 @@
+{
+  "WeatherApi": {
+    "ApiKey": "",
+    "CurrentForecastBaseUrl": "https://api.openweathermap.org/data/2.5/",
+    "OneCallBaseUrl": "https://api.openweathermap.org/data/3.0/"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning"
+    }
+  }
+}
